@@ -11,3 +11,5 @@ All the sections in the yaml should get updated to the latest version.
 ## Link to the Renovate issue or Discussion
 
 https://github.com/renovatebot/renovate/discussions/31710
+
+Note: used the test.sh script to run renovate

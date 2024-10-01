@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "ocb": {
-    "fileMatch": ["./otelcol-builder.yaml"]
+    "fileMatch": ["otelcol-builder.yaml"]
   }
 }
